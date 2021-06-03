@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lay-mans opinion sent in a private letter to a considerable divine of the Church of England.</title>
+            <author>Darrell, William, 1651-1721.</author>
+         </titleStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36931</idno><idno type="EEBO-CITATION">8940517</idno>
+  <idno type="VID">42027</idno>
+  <idno type="EEBO-PROQUEST">2264214942</idno>
+  
+            <idno type="STC">Wing D266</idno>
+            <idno type="STC">ESTC R25367</idno>
+            <idno type="OCLC">08940517</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42027)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1281:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lay-mans opinion sent in a private letter to a considerable divine of the Church of England.</title>
+                  <author>Darrell, William, 1651-1721.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W.D.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42027:1"/>
+            <pb facs="tcp:42027:1"/>
+            <p>THE Laymans Opinion, Sent in a Private LETTER TO A CONSIDERABLE DIVINE OF THE <hi>Church of England.</hi>
+            </p>
+            <p>Printed in the year 1687.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:42027:2"/>
+            <pb n="3" facs="tcp:42027:2"/>
+            <opener>
+               <salute>Reverend Sir,</salute>
+               <dateline>From my House at— <date>the 2d. of <hi>June,</hi> 1687.</date>
+               </dateline>
+            </opener>
+            <p>I Received yours by the last Post, wherein I find your kindness makes you think me more capable than I really am of giving Advice in so critical a time as this: but however, that deserves all the return I am able to make, and accordingly whatever failings I commit, will I hope be still a greater demonstration of my compliance and Friendship.</p>
+            <p>You desire to know my Opinion of the Church of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> way of proceeding in this extraordinary conjun<g ref="char:EOLhyphen"/>cture; and what I intend to do my self, as well as advise you to on this occasion.</p>
+            <p>To speak of this is a very tender point, and touches the quick in a man of my Principles who cannot but still continue an unworthy Member of this Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and consequently love it with all its faults; but then you may imagine, or rather 'tis above imagination how concern'd I am to see it now commit a thousand in<g ref="char:EOLhyphen"/>discretions, which our Enemies will have some cause to call by a worse name, if we persist any longer in them.</p>
+            <p>We began the best in the world, or rather we continu'd doing so, at the settling this King in his Throne, and our selves in his good opinion. What has fatally alter'd our way of proceeding, that was so equally wise and honest? For that 'tis alter'd, is alas too plain in all these following instances, and it would not be a Friends part to disguise it.</p>
+            <p>Did we not in both Houses of Parliament oppose the King's giving Employments to his Friends and Fellow-Sufferers, and not only so, but highly reflected on his Honour and Justice in doing it? So that he rather chose to lose a great Supply, than his good Opinion of us, which we must have forfeited, if we had continued any longer to disoblige him.</p>
+            <pb n="4" facs="tcp:42027:3"/>
+            <p>You will say perhaps, the consequence of that conni<g ref="char:EOLhyphen"/>vance, and the enlargement of his savours to <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks</hi> ever since, has but too much excused and even justified our suspicion then; but, now, we the well-mea<g ref="char:EOLhyphen"/>ning men of our Party are apt to blame it the more; for 'tis not the first time that unreasonable Jealousie has pro<g ref="char:EOLhyphen"/>duced the very thing suspected; and besides, we had but little cause to grudg at his shewing inclination to his own Principles, when in all essential matters he complied with ours.</p>
+            <p>But to go on with the same freedom among Friends. Have not a great many of our considerable Clergy-men been declaiming once a week against the <hi>Roman Catholicks,</hi> who all this while are either very modest▪ or forbid to fol<g ref="char:EOLhyphen"/>low so indiscreet an Example? Tho 'tis obvious enough what an advantage they might have in such a Rhetorical Combat, bearing the King before them as a Buckler, whom neither the Laws of the Land nor of good manners allow us so much as indirectly to aim at.</p>
+            <p>Do not our Universities themselves, those meer Crea<g ref="char:EOLhyphen"/>tures of Power and Favour, who are only beholding to the Laws of late days, and the dispensing Power of the Prero<g ref="char:EOLhyphen"/>gative, for not being held to the Observation of all those Rules which are instituted by <hi>R. Catholick</hi> Founders? Do not these very men, I say, flie in the face of Authority, and like the Snake in the Fable, sting that Bosom which warms them?</p>
+            <p>I know you are too ingenuous to deny the least part of this to a Friend, who reckons all this up, not by way of Accusation, but only as Penitents confess their faults, with Tears and real sense of Human Frailty; which I hope may be forgiven in a poor Church that is far from pretending to an Infallibility.</p>
+            <p>Therefore I know your answer is, That 'tis true we have done all this, but with a great deal of reason. What is
+<pb n="5" facs="tcp:42027:3"/>that? You reply; The belief we are all every day confirm'd in, that by serving the King, we only ensnare our selves in assisting the Church of <hi>Rome</hi> which is endeavouring our Ruin; for if to the Zeal, Magnanimity, and indefatigable Industry of the King, we add the heightening his Prero<g ref="char:EOLhyphen"/>gative, and the firmness of all his Protestant Subjects both in his Armies and Parliament, what imaginable hopes is there to put the least delay to an universal change of Re<g ref="char:EOLhyphen"/>ligion?</p>
+            <p>You see I have put the Objection fairly, and as strongly as the Case will bear; for God forbid there should be any flattery or fallacy among Friends; and I know 'tis in vain to use either of them in Argument▪ or indeed to argue at all in order to convince people, unless out of their own Principles and Practice.</p>
+            <p>Granting then all you pretend, which is much more than you can prove, that such a compliance as is desir'd at our hands, is the way to bring about His Majesty's Designs; and that those designs are to re-settle Popery; yet not<g ref="char:EOLhyphen"/>withstanding, I think it as evident as all our Rules of Chri<g ref="char:EOLhyphen"/>stianity and Reason, that we are bound in conscience to be intirely passive in all things so design'd by such a lawful Sovereign as I am sure our Loyalty has sufficiently demon<g ref="char:EOLhyphen"/>strated we acknowledge the present King to be.</p>
+            <p>And tho you doubt perhaps of my undertaking, yet I am confident your wented Charity and Justice will hinder you from being surpriz'd at it: for what should oblige me to a passive compliance with a Church so opposite to my own, except the meer sense of my Duty, and that ob<g ref="char:EOLhyphen"/>ligation of Loyalty which is the first Principle with me, and so inculcated by the Church of <hi>England</hi> her self, that if any thing could make me suspect her, it would be the seeing her want at this time that inherent wark of Ho<g ref="char:EOLhyphen"/>nour and Justice, which so well and gloriously distin<g ref="char:EOLhyphen"/>guish'd Her from all other Sects in the World.</p>
+            <pb n="6" facs="tcp:42027:4"/>
+            <p>Our Clergy, I find, at present go upon this ground, that in all things relating to the State, we ought not on<g ref="char:EOLhyphen"/>ly to be Passive, but Instrumental in our most zealous endeavours; but in such a Case as this, a Church Matter, where the Protestant Religion is so much concern'd, we are to obey God rather than Man, and stop, if it be possi<g ref="char:EOLhyphen"/>ble, the approaching Inundation.</p>
+            <p>Now, I would fain ask our Zealots how far 'tis lawful to proceed in this Opposition: I am confident they are too wise and honest to make it reach to Arms or any o<g ref="char:EOLhyphen"/>pen Obstructions to the Government; for that was ab<g ref="char:EOLhyphen"/>horr'd by the Primitive Christians even against the per<g ref="char:EOLhyphen"/>secuting Heathens.</p>
+            <p>Well then, 'tis only to go thus far. We are in Pulpits even at the very Court (which by the way would be thought a strange Indecency in any Gentlemans Chap<g ref="char:EOLhyphen"/>pel) to exclaim against the Religion of our Sovereign, and brand it with Idolatry it self, a Mark, like that on <hi>Cain,</hi> to invite every body to do him a mischief.</p>
+            <p>We allow our selves in the Universities, not only to declaim more boldly, but to deny Obedience to a <hi>Man<g ref="char:EOLhyphen"/>damus,</hi> which only dispences with what we our selves have on several Occasions allowed to be omitted, so that if seems we do not deny a dispensing Power, but only except against it in the Supreme Magistrate.</p>
+            <p>We take also this further Liberty, that if the Bars are desired to be taken away from between the King and his Friends, that they may be in the same Capacity with others of doing him and the Nation Service; those Rods that were only made to be the shameful Instruments of Punishment to the King himself, who suffer'd under their lash sufficiently, are it seems not thought fit to be broken, but rather to be hung up in <hi>Westminster-hall,</hi> as a Tro<g ref="char:EOLhyphen"/>phy of so infamous a Victory past, and as a Terror for the time to come. And this is such a Point of Conscience
+<pb n="7" facs="tcp:42027:4"/>with some of us, that we must on that account quit those places to which we had no other pretence of Merit, but our having opposed those Laws formerly, which yet out of a fatal stubbornness we refuse now to Repeal.</p>
+            <p>But these Gentlemen are rather to be pitied than blamed in comparison of a great many others, who cun<g ref="char:EOLhyphen"/>ningly keep their Places still with a subtle Whisper or two, and then as slily cast a look of contempt on all their Master does or designs; who think themselves so dexterous as at the same time to convince the King of their being his Friends, tho it never appear'd so before they were his Subjects; and to convince us of their Zeal, tho we never saw the least of it, till now, that it becomes a little out of season. How many Faces have we seen of late constantly at the Kings Protestant Chappel, who were strangers enough there before, to make a whole Au<g ref="char:EOLhyphen"/>dience rise up and stare at their coming in. 'Tis of these, I believe, the Author of <hi>Hudibrass</hi> has prophesied.</p>
+            <p>
+               <hi>As if they worshipp'd God for spite.</hi>
+            </p>
+            <p>These stand sometimes on the Threshold of the Kings Chappel to hear <hi>Sefache</hi> Sing, but would rather be made like him, than stay a moment longer, trembling alas out of scruple of Conscience, that Conscience which is commode enough on all other occasions, so that 'tis a shrewd Sign the poor innocent is wrong'd here, and not so morose as is pretended, if they would but put it to it's complaisance, which never fails them in all other Temptations: this I say not so much to censure them, as to vindicate our Church, which condemns no man for staying at Divine Service in any Christian Congre<g ref="char:EOLhyphen"/>gation, but rather blames so nauseous an Affectation of Zeal and Faction.</p>
+            <p>Well then, pray give me leave to ask what does all this proceeding mean? May we not oppose the Govern<g ref="char:EOLhyphen"/>ment, and yet may we do all these things? Alas, what
+<pb n="8" facs="tcp:42027:5"/>does such an Equivocation signifie, unless to render us a sort of sneaking Party, more afraid of the Laws of the Land, than of Gods? For can any man believe him<g ref="char:EOLhyphen"/>self a Hundred part so mischievous in drawing his Sword at an Insurrection, as in telling 500 People at a time in the Name of God that the Religion their King Pro<g ref="char:EOLhyphen"/>fesses is rank Idolatry?</p>
+            <p>Does any reasonable man imagin that several things which our Laws make Treason, are half so bad and dan<g ref="char:EOLhyphen"/>gerous as a Trimming double-dealing Courtier, who has nothing in him of Religion, but his contradicting the Kings?</p>
+            <p>If we continue thus, indeed we are not bare faced Re<g ref="char:EOLhyphen"/>bells against the Government as our Sectaries once were, but I doubt we are little better than Spyes under the Protection of it; which is no great advantage in the comparison.</p>
+            <p>We have all the Benefices, all the Church Prefer<g ref="char:EOLhyphen"/>ments, and only for fear of losing them, we do enough to forfeit them; like People that die, only for fear of Death.</p>
+            <p>Did we pull down a Pope to set up a King? And are we pulling down a King, or at least tugging with him to set up our selves?</p>
+            <p>What pretence have we of all the World for doing this? We have no private Spirit to guide us in such dark paths.</p>
+            <p>We have no Infallible Council to secure us against any doubts of Conscience, and all Objections of human rea<g ref="char:EOLhyphen"/>soning: We have Listed our selves under a King ever since <hi>Henry</hi> the <hi>8ths</hi> time, and, like <hi>Esops</hi> Horse, are obliged to bear him for our Rider ever after. Which is the humble Opinion of,</p>
+            <closer>
+               <signed>Your most Faithful Friend, W. D.</signed>
+            </closer>
+            <pb facs="tcp:42027:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
